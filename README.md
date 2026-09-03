@@ -19,3 +19,5 @@ Roses, lilies, and hydrangas
 dolly parton
 ## Destinations
 New Zealand
+## Clothing Items
+socks, pants, shirt, and sweaters
