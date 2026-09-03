@@ -4,3 +4,6 @@ I am learning to use GitHub
 ## fun facts
 I am afraid of ducks
 
+## Command line
+Pushing things to the gitHub
+
