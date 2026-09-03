@@ -1,1 +1,1 @@
-This README file contains information about my uploaded assignments
+I am learning to use GitHub
