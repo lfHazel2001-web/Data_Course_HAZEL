@@ -1,0 +1,6 @@
+Idea for data analysis project:
+I work for a business that conducts research on people who have had traumatic brain injury and treat patients with red light therapy or more specifically photobiomodulation. I plan on taking a data set from this research and making my presentation from it. 
+
+The type of data will come from tracking balance, eye tracking, test distributed by the Dr., and other testing the keeps track of memory. 
+
+The plot that I plan to make will show the patients improvement of test scores after specific amounts of time. I believe its after 2 weeks, a month, and longer if I can access that data. This mainly shows the validity of the treatment and shows that it could be an alternative to medication. 
