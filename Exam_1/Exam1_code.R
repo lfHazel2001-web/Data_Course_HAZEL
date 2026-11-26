@@ -1,7 +1,14 @@
 library(tidyverse)
 getwd()
+
+getwd()
+list.files()
+setwd("C:/Users/dftat/Downloads/Data_Course_HAZEL")
 ## 1)read cleaned data
-df <- read.csv("Exam_1/cleaned_covid_data.csv")
+df <- read.csv("cleaned_covid_data.csv")
+## Convert Last_Update into a date format
+df$Last_Update <- as.Date(df$Last_Update, format = "%m/%d/%Y")
+
 ## 2)A States
 A_states<-df %>%
   filter(grepl("^A", Province_State))
@@ -54,3 +61,7 @@ us_deaths <- df %>%
     .groups = "drop"
   ) %>%
   arrange(Last_Update)
+
+getwd()
+list.files()
+head(df)
